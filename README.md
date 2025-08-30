@@ -81,7 +81,7 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sonu-kumawat-ai&" alt="sonu-kumawat-ai" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sonu-kumawat-ai&cache_seconds=1800" alt="sonu-kumawat-ai" />
 </p>
 
 ---
